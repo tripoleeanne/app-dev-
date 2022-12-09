@@ -36,7 +36,21 @@ My first repository.
 > Landon's best friend; one of the best athletes in the school, but not a serious student. He often teases Landon about Jamie.
 
 ---
+
+### **Moral Lesson of the Movie**
+1. First item
+2. Second item
+3. Third item
+
+---
+
 **Disclaimer**
 
 While there are many similarities in the movie to the novel by Nicholas Sparks, many changes were made. To read the plot and other information of the story, feel free to visit the link. 
 *[Click here.]((https://www.cliffsnotes.com/literature/w/a-walk-to-remember/about-a-walk-to-remember))*
+
+**References**
+
+- https://media.neliti.com/media/publications/190917-EN-book-review-of-nicholas-sparksa-walk-to.pdf
+
+
