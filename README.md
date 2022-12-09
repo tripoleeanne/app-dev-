@@ -1,6 +1,6 @@
 # app-dev-
 My first repository.
-## A Walk to Remember
+## A Walk to Remember 💟
 
 ### **Background of the Movie**
 
@@ -37,20 +37,21 @@ My first repository.
 
 ---
 
-### **Moral Lesson of the Movie**
-1. First item
-2. Second item
-3. Third item
+### **Top Moral Lesson of the Movie**
+1. You cannot judge someone with his/her appearance. However, the person be bad which could reflect on his actions but his heart might be good.
+2. When you are doing something in the proper way, it shows your love, concern and respect for the person you truly love.
+3. Positivity in life helps an individual achieve those things which people seems to never expected from you.
 
 ---
 
 **Disclaimer**
 
-While there are many similarities in the movie to the novel by Nicholas Sparks, many changes were made. To read the plot and other information of the story, feel free to visit the link. 
-*[Click here.]((https://www.cliffsnotes.com/literature/w/a-walk-to-remember/about-a-walk-to-remember))*
+While there are many similarities in the movie to the novel by Nicholas Sparks, many changes were made. To read the plot and other information of the story, feel free to visit the link **below**. 
+
+<https://www.cliffsnotes.com/literature/w/a-walk-to-remember/about-a-walk-to-remember>
 
 **References**
 
-- https://media.neliti.com/media/publications/190917-EN-book-review-of-nicholas-sparksa-walk-to.pdf
-
+- <https://media.neliti.com/media/publications/190917-EN-book-review-of-nicholas-sparksa-walk-to.pdf>
+- <https://www.rvcj.com/9-things-can-learn-walk-remember/>
 
